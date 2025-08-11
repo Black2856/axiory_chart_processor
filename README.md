@@ -117,10 +117,6 @@ date,time,open,high,low,close,volume
 
 MIT License
 
-## 作者
-
-[Your Name]
-
 ## 貢献
 
 バグ報告や機能リクエストは、GitHubのIssuesまでお願いします。
